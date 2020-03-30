@@ -1,2 +1,2 @@
-### Welcome to GitHub Pages.
+## Welcome to my GitHub Pages.
 #### Find my resume [here](https://iamvarunreddyj.github.io/resume/)
